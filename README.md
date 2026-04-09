@@ -38,14 +38,14 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🛡️ DTRA</h3>
-<p align="center"><strong>Dynamic Threat Response Agent</strong></p>
+<h3 align="center">🛡️ ARSS</h3>
+<p align="center"><strong>Autonomous Response System for SOC</strong></p>
 <p align="center">
-<a href="https://github.com/Deez-Automations/DTRA---Dynamic-Threat-Response-Agent">
-<img src="https://img.shields.io/badge/ACCURACY-99.8%25-00d9ff?style=for-the-badge"/>
+<a href="https://github.com/Deez-Automations/ARSS">
+<img src="https://img.shields.io/badge/FYP-Research_Phase-00d9ff?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">AI-powered Security Operations Center. Hybrid IDS using XGBoost + DNN + Reinforcement Learning. Trained on 600K+ network packets.</p>
+<p align="center">Autonomous SOC alert triage agent. Reduces analyst burnout by auto-handling noise using a two-stage AI ensemble and MITRE ATT&CK grounded RL decision agent.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 <p align="center">
-<a href="https://github.com/Deez-Automations/DTRA---Dynamic-Threat-Response-Agent">
+<a href="https://github.com/Deez-Automations/ARSS">
 <img src="https://img.shields.io/badge/→_View_Project-181717?style=flat-square&logo=github"/>
 </a>
 </p>
@@ -150,7 +150,7 @@ LLM agents that research, enrich, and personalize outreach at scale.
 
 ## 💬 Ask Me About
 
-- Threat detection systems (DTRA got 99.8% accuracy)
+- Autonomous SOC triage systems (ARSS — explainable RL + MITRE ATT&CK)
 - LLM agents and automation (KOVACS stack)
 - Breaking things (TryHackMe Top 5% globally)
 - Why your security dialogs don't work
